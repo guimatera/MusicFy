@@ -18,4 +18,5 @@ export const ArtistTitle =  styled.text`
     align: Left;
     color: #F0F0F0;
     margin-top: 5%;
+    margin-bottom: 5%;
 `
