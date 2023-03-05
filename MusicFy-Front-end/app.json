@@ -1,0 +1,12 @@
+{
+  "name": "MusicFyFrontend",
+  "displayName": "MusicFy-Front-end",
+  "expo": {
+    "name": "MusicFy-Front-end",
+    "slug": "MusicFy-Front-end",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
